@@ -10,11 +10,13 @@ div.header span {
 }
 
 .titleimg {
+  position: relative;
+  text-align: center;
+  color: white;
   margin: 0;
-  width: 100%;
-  object-fit: cover;
-  max-height: 150px;
+  padding: 0;
 }
+
 .centered {
   position: absolute;
   top: 50%;
