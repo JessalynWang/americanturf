@@ -9,6 +9,13 @@ div.header span {
   text-align:center;
 }
 
+img-item {
+  width: 100%;
+  margin: 0;
+  object-fit: cover;
+  max-height: 150px;
+}
+
 .titleimg {
   position: relative;
   text-align: center;
