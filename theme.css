@@ -37,3 +37,8 @@ img-item {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.container {
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+}
