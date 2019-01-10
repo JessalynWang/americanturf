@@ -39,7 +39,5 @@ img-item {
 }
 
 .thumbnail {
-  border-style: solid;
-  border-width: 2px 2px 2px 2px;
   padding: 15px;
 }
