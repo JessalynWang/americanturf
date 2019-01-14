@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>American Turf</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400" rel="stylesheet">
+  <link rel="stylesheet" href="https://jessalynwang.github.io/americanturf/theme.css">
+  <link rel="icon" type:"image/png" href="https://gdurl.com/2LZ2R">
+ </head>
+  
+ <body>
+   <nav style="background-color: white; padding: 15px; position: fixed; width: 100%; z-index: 999">
+     <div class="header">
+       <span><a href="https://jessalynwang.github.io/americanturf/">HOME</a></span>
+       <span><a href="https://jessalynwang.github.io/americanturf/journals">PROGRESS</a></span>
+       <span><a href="https://jessalynwang.github.io/americanturf/recipes">RECIPES</a></span>
+       <span><a href="https://jessalynwang.github.io/americanturf/about">ABOUT</a></span>
+     </div>
+   </nav>
+ 
+ <h1 style="text-align: center">Gotta plant something first. Whether or not we execute well (probably not well, I don't think any of us are terribly good cooks), I'm sure the recipes will make nice food so don't hesitate to follow them"</h1>
+ 
+ </body>
+ </html>
