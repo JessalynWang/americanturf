@@ -48,5 +48,5 @@ img-item {
 }
 
 .thumbnail:hover {
-  box-shadow: 0, 0, 15px rgb(220, 220, 220);
+  box-shadow: 0 0 15px rgb(220, 220, 220);
 }
