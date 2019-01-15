@@ -46,3 +46,7 @@ img-item {
 .thumbnail {
   padding: 15px;
 }
+
+.thumbnail:hover {
+  box-shadow: rgb(220, 220, 220);
+}
