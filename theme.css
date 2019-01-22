@@ -55,7 +55,6 @@ img {
 
 hr {
   border: none;
-  height: 1.5px;
+  height: 1px;
   background-color: #A9A9A9;
-  padding: 30px;
 }
