@@ -15,10 +15,9 @@ div.header span {
 }
 
 img-item {
-  width: 100%;
+  width: 75px;
   margin: 0;
-  object-fit: cover;
-  max-height: 150px;
+  height: 100px;
 }
 
 .imgbox {
