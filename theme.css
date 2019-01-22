@@ -14,10 +14,8 @@ div.header span {
   text-align:center;
 }
 
-.img-item {
-  width: 75px;
-  margin: 0;
-  height: 100px;
+img {
+  width: 100%;
 }
 
 .imgbox {
