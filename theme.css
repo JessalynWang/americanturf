@@ -52,3 +52,9 @@ img {
 .description {
   padding: 20px;
 }
+
+hr {
+  border: none;
+  height: 1.5px;
+  background-color: #A9A9A9;
+}
