@@ -58,3 +58,7 @@ hr {
   height: 1px;
   background-color: #A9A9A9;
 }
+
+.col-sm-4 {
+  max-height: 400px;
+}
