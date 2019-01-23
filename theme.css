@@ -61,4 +61,5 @@ hr {
 
 .col-sm-4, .col-sm-8 {
   max-height: 400px;
+  overflow: hidden;
 }
