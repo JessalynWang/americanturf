@@ -63,3 +63,9 @@ hr {
   max-height: 400px;
   overflow: hidden;
 }
+
+.carousel-inner > .item > img {
+  width: 500px;
+  height: 300px;
+}
+    
