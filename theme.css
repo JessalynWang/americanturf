@@ -66,5 +66,6 @@ hr {
 
 .carousel-inner > .item > img {
   max-height: 270px;
+  width: auto;
 }
     
